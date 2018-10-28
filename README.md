@@ -4,7 +4,7 @@
 - Two stacks in one array
 - Ordered / Unorderes list using double linked list
 
-# to be added
+# To be added
 - Queue using linked list and array
 - ArrayList
 - HashMap
