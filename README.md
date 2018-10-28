@@ -7,6 +7,3 @@
 - Linked List Queue
 - Array Queue
 
-# To be added
-- ArrayList
-- HashMap
