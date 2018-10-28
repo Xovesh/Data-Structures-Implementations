@@ -2,7 +2,7 @@
 
 - Stack using linked list and array
 - Two stacks in one array
-- Ordered / Unorderes list using double linked list
+- Ordered / Unordered list using double linked list
 
 # To be added
 - Queue using linked list and array
