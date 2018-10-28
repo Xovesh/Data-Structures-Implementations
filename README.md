@@ -1,4 +1,4 @@
-# Data Structures Implementations in Java
+# Generic Data Structures Implementations in Java
 
 - Stack Array
 - Stack Linked List
