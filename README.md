@@ -1,10 +1,12 @@
 # Data Structures Implementations
 
-- Stack using linked list and array
-- Two stacks in one array
-- Ordered / Unordered list using double linked list
+- Stack Array
+- Stack Linked List
+- Two stacks in one Array
+- Ordered / Unordered list using Double Linked List
+- Queue Linked List
+- Queue Array
 
 # To be added
-- Queue using linked list and array
 - ArrayList
 - HashMap
