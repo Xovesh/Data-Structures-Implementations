@@ -1,11 +1,11 @@
 # Generic Data Structures Implementations in Java
 
-- Stack Array
-- Stack Linked List
+- Array Stack
+- Linked List Stack
 - Two stacks in one Array
 - Ordered / Unordered list using Double Linked List
-- Queue Linked List
-- Queue Array
+- Linked List Queue
+- Array Queue
 
 # To be added
 - ArrayList
